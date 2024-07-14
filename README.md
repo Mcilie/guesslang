@@ -4,6 +4,8 @@
 
 Guesslang detects the programming language of a given source code:
 
+## THIS REPO SUPPORTS PYTHON >3.8 / TENSORFLOW > 2.5 
+
 ```bash
 echo '
 package main
